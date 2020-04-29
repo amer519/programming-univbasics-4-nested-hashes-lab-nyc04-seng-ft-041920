@@ -104,11 +104,11 @@ def changing_alan
       :dennis_ritchie => {
         :known_for => "Unix",
         :languages => ["C"]
-       GUI"
+       
       }
       
     }
-     alans_new_info = programmer_hash[:alan_kay][:known_for] = "
+     alans_new_info = programmer_hash[:alan_kay][:known_for] = "GUI"
        
 
 end
